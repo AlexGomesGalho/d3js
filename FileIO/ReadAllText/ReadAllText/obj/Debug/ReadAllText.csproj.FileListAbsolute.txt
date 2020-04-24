@@ -1,0 +1,6 @@
+C:\Users\Bizruntime-50\source\repos\Aditya-N\File IO\ReadAllText\ReadAllText\bin\Debug\ReadAllText.exe.config
+C:\Users\Bizruntime-50\source\repos\Aditya-N\File IO\ReadAllText\ReadAllText\bin\Debug\ReadAllText.exe
+C:\Users\Bizruntime-50\source\repos\Aditya-N\File IO\ReadAllText\ReadAllText\bin\Debug\ReadAllText.pdb
+C:\Users\Bizruntime-50\source\repos\Aditya-N\File IO\ReadAllText\ReadAllText\obj\Debug\ReadAllText.csprojAssemblyReference.cache
+C:\Users\Bizruntime-50\source\repos\Aditya-N\File IO\ReadAllText\ReadAllText\obj\Debug\ReadAllText.exe
+C:\Users\Bizruntime-50\source\repos\Aditya-N\File IO\ReadAllText\ReadAllText\obj\Debug\ReadAllText.pdb
