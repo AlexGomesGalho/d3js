@@ -1,0 +1,12 @@
+C:\Users\Bizruntime-50\source\repos\SocketTrail\Client\bin\Debug\Client.exe.config
+C:\Users\Bizruntime-50\source\repos\SocketTrail\Client\bin\Debug\Client.exe
+C:\Users\Bizruntime-50\source\repos\SocketTrail\Client\bin\Debug\Client.pdb
+C:\Users\Bizruntime-50\source\repos\SocketTrail\Client\obj\Debug\Client.exe
+C:\Users\Bizruntime-50\source\repos\SocketTrail\Client\obj\Debug\Client.pdb
+C:\Users\Bizruntime-50\source\repos\SocketTrail\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Bizruntime-50\source\repos\Aditya-N\SocketProgramming\SocketTrail\Client\bin\Debug\Client.exe.config
+C:\Users\Bizruntime-50\source\repos\Aditya-N\SocketProgramming\SocketTrail\Client\bin\Debug\Client.exe
+C:\Users\Bizruntime-50\source\repos\Aditya-N\SocketProgramming\SocketTrail\Client\bin\Debug\Client.pdb
+C:\Users\Bizruntime-50\source\repos\Aditya-N\SocketProgramming\SocketTrail\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Bizruntime-50\source\repos\Aditya-N\SocketProgramming\SocketTrail\Client\obj\Debug\Client.exe
+C:\Users\Bizruntime-50\source\repos\Aditya-N\SocketProgramming\SocketTrail\Client\obj\Debug\Client.pdb
