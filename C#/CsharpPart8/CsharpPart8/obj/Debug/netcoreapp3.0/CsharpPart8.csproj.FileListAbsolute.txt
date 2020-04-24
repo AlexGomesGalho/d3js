@@ -1,0 +1,11 @@
+C:\Users\Aditya\source\repos\CsharpPart8\CsharpPart8\bin\Debug\netcoreapp3.0\CsharpPart8.exe
+C:\Users\Aditya\source\repos\CsharpPart8\CsharpPart8\bin\Debug\netcoreapp3.0\CsharpPart8.deps.json
+C:\Users\Aditya\source\repos\CsharpPart8\CsharpPart8\bin\Debug\netcoreapp3.0\CsharpPart8.runtimeconfig.json
+C:\Users\Aditya\source\repos\CsharpPart8\CsharpPart8\bin\Debug\netcoreapp3.0\CsharpPart8.runtimeconfig.dev.json
+C:\Users\Aditya\source\repos\CsharpPart8\CsharpPart8\bin\Debug\netcoreapp3.0\CsharpPart8.dll
+C:\Users\Aditya\source\repos\CsharpPart8\CsharpPart8\bin\Debug\netcoreapp3.0\CsharpPart8.pdb
+C:\Users\Aditya\source\repos\CsharpPart8\CsharpPart8\obj\Debug\netcoreapp3.0\CsharpPart8.csprojAssemblyReference.cache
+C:\Users\Aditya\source\repos\CsharpPart8\CsharpPart8\obj\Debug\netcoreapp3.0\CsharpPart8.AssemblyInfoInputs.cache
+C:\Users\Aditya\source\repos\CsharpPart8\CsharpPart8\obj\Debug\netcoreapp3.0\CsharpPart8.AssemblyInfo.cs
+C:\Users\Aditya\source\repos\CsharpPart8\CsharpPart8\obj\Debug\netcoreapp3.0\CsharpPart8.dll
+C:\Users\Aditya\source\repos\CsharpPart8\CsharpPart8\obj\Debug\netcoreapp3.0\CsharpPart8.pdb

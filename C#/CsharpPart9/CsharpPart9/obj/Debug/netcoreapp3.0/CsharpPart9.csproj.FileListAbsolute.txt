@@ -1,0 +1,11 @@
+C:\Users\Aditya\source\repos\CsharpPart9\CsharpPart9\bin\Debug\netcoreapp3.0\CsharpPart9.exe
+C:\Users\Aditya\source\repos\CsharpPart9\CsharpPart9\bin\Debug\netcoreapp3.0\CsharpPart9.deps.json
+C:\Users\Aditya\source\repos\CsharpPart9\CsharpPart9\bin\Debug\netcoreapp3.0\CsharpPart9.runtimeconfig.json
+C:\Users\Aditya\source\repos\CsharpPart9\CsharpPart9\bin\Debug\netcoreapp3.0\CsharpPart9.runtimeconfig.dev.json
+C:\Users\Aditya\source\repos\CsharpPart9\CsharpPart9\bin\Debug\netcoreapp3.0\CsharpPart9.dll
+C:\Users\Aditya\source\repos\CsharpPart9\CsharpPart9\bin\Debug\netcoreapp3.0\CsharpPart9.pdb
+C:\Users\Aditya\source\repos\CsharpPart9\CsharpPart9\obj\Debug\netcoreapp3.0\CsharpPart9.csprojAssemblyReference.cache
+C:\Users\Aditya\source\repos\CsharpPart9\CsharpPart9\obj\Debug\netcoreapp3.0\CsharpPart9.AssemblyInfoInputs.cache
+C:\Users\Aditya\source\repos\CsharpPart9\CsharpPart9\obj\Debug\netcoreapp3.0\CsharpPart9.AssemblyInfo.cs
+C:\Users\Aditya\source\repos\CsharpPart9\CsharpPart9\obj\Debug\netcoreapp3.0\CsharpPart9.dll
+C:\Users\Aditya\source\repos\CsharpPart9\CsharpPart9\obj\Debug\netcoreapp3.0\CsharpPart9.pdb

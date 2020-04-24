@@ -1,0 +1,6 @@
+C:\Users\Bizruntime-50\source\repos\Aditya-N\C#\LamdaExpression\LamdaExpression\bin\Debug\LamdaExpression.exe.config
+C:\Users\Bizruntime-50\source\repos\Aditya-N\C#\LamdaExpression\LamdaExpression\bin\Debug\LamdaExpression.exe
+C:\Users\Bizruntime-50\source\repos\Aditya-N\C#\LamdaExpression\LamdaExpression\bin\Debug\LamdaExpression.pdb
+C:\Users\Bizruntime-50\source\repos\Aditya-N\C#\LamdaExpression\LamdaExpression\obj\Debug\LamdaExpression.csprojAssemblyReference.cache
+C:\Users\Bizruntime-50\source\repos\Aditya-N\C#\LamdaExpression\LamdaExpression\obj\Debug\LamdaExpression.exe
+C:\Users\Bizruntime-50\source\repos\Aditya-N\C#\LamdaExpression\LamdaExpression\obj\Debug\LamdaExpression.pdb

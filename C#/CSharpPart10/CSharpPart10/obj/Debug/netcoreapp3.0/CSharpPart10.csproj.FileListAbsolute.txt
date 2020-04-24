@@ -1,0 +1,11 @@
+C:\Users\Aditya\source\repos\CSharpPart10\CSharpPart10\bin\Debug\netcoreapp3.0\CSharpPart10.exe
+C:\Users\Aditya\source\repos\CSharpPart10\CSharpPart10\bin\Debug\netcoreapp3.0\CSharpPart10.deps.json
+C:\Users\Aditya\source\repos\CSharpPart10\CSharpPart10\bin\Debug\netcoreapp3.0\CSharpPart10.runtimeconfig.json
+C:\Users\Aditya\source\repos\CSharpPart10\CSharpPart10\bin\Debug\netcoreapp3.0\CSharpPart10.runtimeconfig.dev.json
+C:\Users\Aditya\source\repos\CSharpPart10\CSharpPart10\bin\Debug\netcoreapp3.0\CSharpPart10.dll
+C:\Users\Aditya\source\repos\CSharpPart10\CSharpPart10\bin\Debug\netcoreapp3.0\CSharpPart10.pdb
+C:\Users\Aditya\source\repos\CSharpPart10\CSharpPart10\obj\Debug\netcoreapp3.0\CSharpPart10.csprojAssemblyReference.cache
+C:\Users\Aditya\source\repos\CSharpPart10\CSharpPart10\obj\Debug\netcoreapp3.0\CSharpPart10.AssemblyInfoInputs.cache
+C:\Users\Aditya\source\repos\CSharpPart10\CSharpPart10\obj\Debug\netcoreapp3.0\CSharpPart10.AssemblyInfo.cs
+C:\Users\Aditya\source\repos\CSharpPart10\CSharpPart10\obj\Debug\netcoreapp3.0\CSharpPart10.dll
+C:\Users\Aditya\source\repos\CSharpPart10\CSharpPart10\obj\Debug\netcoreapp3.0\CSharpPart10.pdb

@@ -1,0 +1,11 @@
+C:\Users\Aditya\source\repos\CSharpPart11\CSharpPart11\obj\Debug\netcoreapp3.0\CSharpPart11.csprojAssemblyReference.cache
+C:\Users\Aditya\source\repos\CSharpPart11\CSharpPart11\obj\Debug\netcoreapp3.0\CSharpPart11.AssemblyInfoInputs.cache
+C:\Users\Aditya\source\repos\CSharpPart11\CSharpPart11\obj\Debug\netcoreapp3.0\CSharpPart11.AssemblyInfo.cs
+C:\Users\Aditya\source\repos\CSharpPart11\CSharpPart11\bin\Debug\netcoreapp3.0\CSharpPart11.exe
+C:\Users\Aditya\source\repos\CSharpPart11\CSharpPart11\bin\Debug\netcoreapp3.0\CSharpPart11.deps.json
+C:\Users\Aditya\source\repos\CSharpPart11\CSharpPart11\bin\Debug\netcoreapp3.0\CSharpPart11.runtimeconfig.json
+C:\Users\Aditya\source\repos\CSharpPart11\CSharpPart11\bin\Debug\netcoreapp3.0\CSharpPart11.runtimeconfig.dev.json
+C:\Users\Aditya\source\repos\CSharpPart11\CSharpPart11\bin\Debug\netcoreapp3.0\CSharpPart11.dll
+C:\Users\Aditya\source\repos\CSharpPart11\CSharpPart11\bin\Debug\netcoreapp3.0\CSharpPart11.pdb
+C:\Users\Aditya\source\repos\CSharpPart11\CSharpPart11\obj\Debug\netcoreapp3.0\CSharpPart11.dll
+C:\Users\Aditya\source\repos\CSharpPart11\CSharpPart11\obj\Debug\netcoreapp3.0\CSharpPart11.pdb

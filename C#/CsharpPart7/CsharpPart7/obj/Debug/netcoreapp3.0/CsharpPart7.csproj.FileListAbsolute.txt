@@ -1,0 +1,11 @@
+C:\Users\Aditya\source\repos\CsharpPart7\CsharpPart7\bin\Debug\netcoreapp3.0\CsharpPart7.exe
+C:\Users\Aditya\source\repos\CsharpPart7\CsharpPart7\bin\Debug\netcoreapp3.0\CsharpPart7.deps.json
+C:\Users\Aditya\source\repos\CsharpPart7\CsharpPart7\bin\Debug\netcoreapp3.0\CsharpPart7.runtimeconfig.json
+C:\Users\Aditya\source\repos\CsharpPart7\CsharpPart7\bin\Debug\netcoreapp3.0\CsharpPart7.runtimeconfig.dev.json
+C:\Users\Aditya\source\repos\CsharpPart7\CsharpPart7\bin\Debug\netcoreapp3.0\CsharpPart7.dll
+C:\Users\Aditya\source\repos\CsharpPart7\CsharpPart7\bin\Debug\netcoreapp3.0\CsharpPart7.pdb
+C:\Users\Aditya\source\repos\CsharpPart7\CsharpPart7\obj\Debug\netcoreapp3.0\CsharpPart7.csprojAssemblyReference.cache
+C:\Users\Aditya\source\repos\CsharpPart7\CsharpPart7\obj\Debug\netcoreapp3.0\CsharpPart7.AssemblyInfoInputs.cache
+C:\Users\Aditya\source\repos\CsharpPart7\CsharpPart7\obj\Debug\netcoreapp3.0\CsharpPart7.AssemblyInfo.cs
+C:\Users\Aditya\source\repos\CsharpPart7\CsharpPart7\obj\Debug\netcoreapp3.0\CsharpPart7.dll
+C:\Users\Aditya\source\repos\CsharpPart7\CsharpPart7\obj\Debug\netcoreapp3.0\CsharpPart7.pdb

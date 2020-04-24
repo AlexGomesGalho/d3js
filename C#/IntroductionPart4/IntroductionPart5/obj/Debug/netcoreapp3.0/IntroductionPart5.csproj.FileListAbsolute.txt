@@ -1,0 +1,11 @@
+C:\Users\Aditya\source\repos\IntroductionPart5\IntroductionPart5\bin\Debug\netcoreapp3.0\IntroductionPart5.exe
+C:\Users\Aditya\source\repos\IntroductionPart5\IntroductionPart5\bin\Debug\netcoreapp3.0\IntroductionPart5.deps.json
+C:\Users\Aditya\source\repos\IntroductionPart5\IntroductionPart5\bin\Debug\netcoreapp3.0\IntroductionPart5.runtimeconfig.json
+C:\Users\Aditya\source\repos\IntroductionPart5\IntroductionPart5\bin\Debug\netcoreapp3.0\IntroductionPart5.runtimeconfig.dev.json
+C:\Users\Aditya\source\repos\IntroductionPart5\IntroductionPart5\bin\Debug\netcoreapp3.0\IntroductionPart5.dll
+C:\Users\Aditya\source\repos\IntroductionPart5\IntroductionPart5\bin\Debug\netcoreapp3.0\IntroductionPart5.pdb
+C:\Users\Aditya\source\repos\IntroductionPart5\IntroductionPart5\obj\Debug\netcoreapp3.0\IntroductionPart5.csprojAssemblyReference.cache
+C:\Users\Aditya\source\repos\IntroductionPart5\IntroductionPart5\obj\Debug\netcoreapp3.0\IntroductionPart5.AssemblyInfoInputs.cache
+C:\Users\Aditya\source\repos\IntroductionPart5\IntroductionPart5\obj\Debug\netcoreapp3.0\IntroductionPart5.AssemblyInfo.cs
+C:\Users\Aditya\source\repos\IntroductionPart5\IntroductionPart5\obj\Debug\netcoreapp3.0\IntroductionPart5.dll
+C:\Users\Aditya\source\repos\IntroductionPart5\IntroductionPart5\obj\Debug\netcoreapp3.0\IntroductionPart5.pdb

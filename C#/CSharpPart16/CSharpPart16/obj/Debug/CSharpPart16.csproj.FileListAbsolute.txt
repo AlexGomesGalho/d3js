@@ -1,0 +1,9 @@
+C:\Users\Aditya\source\repos\CSharpPart16\CSharpPart16\bin\Debug\CSharpPart16.exe.config
+C:\Users\Aditya\source\repos\CSharpPart16\CSharpPart16\bin\Debug\CSharpPart16.exe
+C:\Users\Aditya\source\repos\CSharpPart16\CSharpPart16\bin\Debug\CSharpPart16.pdb
+C:\Users\Aditya\source\repos\CSharpPart16\CSharpPart16\bin\Debug\log4net.dll
+C:\Users\Aditya\source\repos\CSharpPart16\CSharpPart16\bin\Debug\log4net.xml
+C:\Users\Aditya\source\repos\CSharpPart16\CSharpPart16\obj\Debug\CSharpPart16.csprojAssemblyReference.cache
+C:\Users\Aditya\source\repos\CSharpPart16\CSharpPart16\obj\Debug\CSharpPart16.csproj.CopyComplete
+C:\Users\Aditya\source\repos\CSharpPart16\CSharpPart16\obj\Debug\CSharpPart16.exe
+C:\Users\Aditya\source\repos\CSharpPart16\CSharpPart16\obj\Debug\CSharpPart16.pdb

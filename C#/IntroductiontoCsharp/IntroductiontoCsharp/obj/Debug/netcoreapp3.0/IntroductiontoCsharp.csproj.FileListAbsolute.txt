@@ -1,0 +1,11 @@
+C:\Users\Aditya\source\repos\IntroductiontoCsharp\IntroductiontoCsharp\bin\Debug\netcoreapp3.0\IntroductiontoCsharp.exe
+C:\Users\Aditya\source\repos\IntroductiontoCsharp\IntroductiontoCsharp\bin\Debug\netcoreapp3.0\IntroductiontoCsharp.deps.json
+C:\Users\Aditya\source\repos\IntroductiontoCsharp\IntroductiontoCsharp\bin\Debug\netcoreapp3.0\IntroductiontoCsharp.runtimeconfig.json
+C:\Users\Aditya\source\repos\IntroductiontoCsharp\IntroductiontoCsharp\bin\Debug\netcoreapp3.0\IntroductiontoCsharp.runtimeconfig.dev.json
+C:\Users\Aditya\source\repos\IntroductiontoCsharp\IntroductiontoCsharp\bin\Debug\netcoreapp3.0\IntroductiontoCsharp.dll
+C:\Users\Aditya\source\repos\IntroductiontoCsharp\IntroductiontoCsharp\bin\Debug\netcoreapp3.0\IntroductiontoCsharp.pdb
+C:\Users\Aditya\source\repos\IntroductiontoCsharp\IntroductiontoCsharp\obj\Debug\netcoreapp3.0\IntroductiontoCsharp.csprojAssemblyReference.cache
+C:\Users\Aditya\source\repos\IntroductiontoCsharp\IntroductiontoCsharp\obj\Debug\netcoreapp3.0\IntroductiontoCsharp.AssemblyInfoInputs.cache
+C:\Users\Aditya\source\repos\IntroductiontoCsharp\IntroductiontoCsharp\obj\Debug\netcoreapp3.0\IntroductiontoCsharp.AssemblyInfo.cs
+C:\Users\Aditya\source\repos\IntroductiontoCsharp\IntroductiontoCsharp\obj\Debug\netcoreapp3.0\IntroductiontoCsharp.dll
+C:\Users\Aditya\source\repos\IntroductiontoCsharp\IntroductiontoCsharp\obj\Debug\netcoreapp3.0\IntroductiontoCsharp.pdb

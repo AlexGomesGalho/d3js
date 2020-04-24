@@ -1,0 +1,9 @@
+C:\Users\Aditya\source\repos\CSharpPart15\CSharpPart15\bin\Debug\CSharpPart15.exe.config
+C:\Users\Aditya\source\repos\CSharpPart15\CSharpPart15\bin\Debug\CSharpPart15.exe
+C:\Users\Aditya\source\repos\CSharpPart15\CSharpPart15\bin\Debug\CSharpPart15.pdb
+C:\Users\Aditya\source\repos\CSharpPart15\CSharpPart15\bin\Debug\log4net.dll
+C:\Users\Aditya\source\repos\CSharpPart15\CSharpPart15\bin\Debug\log4net.xml
+C:\Users\Aditya\source\repos\CSharpPart15\CSharpPart15\obj\Debug\CSharpPart15.csprojAssemblyReference.cache
+C:\Users\Aditya\source\repos\CSharpPart15\CSharpPart15\obj\Debug\CSharpPart15.csproj.CopyComplete
+C:\Users\Aditya\source\repos\CSharpPart15\CSharpPart15\obj\Debug\CSharpPart15.exe
+C:\Users\Aditya\source\repos\CSharpPart15\CSharpPart15\obj\Debug\CSharpPart15.pdb
