@@ -1,0 +1,21 @@
+<html>
+	<head>
+	<script src="https://d3js.org/d3.v5.js"></script>
+	</head>
+
+	<body>
+	    <p>This is a an Example for VisualizingData</p>
+	    <script>
+            var dataArray=[1000,26,86];
+	        var canvas = d3.select("body").append("svg").attr("width",500).attr("height",500);
+
+            var bars = canvas.selectAll("rect")
+                        .data(dataArray)
+                        .enter()
+                            .append("rect")
+                            .attr("width",function(d) {return d * 10;})
+                            .attr("height",50)
+                            .attr("y",function(d,i){return i*100});
+	    </script>
+	</body>
+</html>

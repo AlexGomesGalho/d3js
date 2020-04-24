@@ -1,0 +1,16 @@
+<html>
+	<head>
+	<script src="https://d3js.org/d3.v5.js"></script>
+	</head>
+
+	<body>
+	<p>This is a an Example for SVG</p>
+	<script>
+	var canvas = d3.select("body").append("svg").attr("width",500).attr("height",500);
+
+    var circle = canvas.append("circle").attr("r",100).attr("cx",400).attr("cy",100).attr("fill","Red");
+    var Rect = canvas.append("rect").attr("r",100).attr("width",250).attr("height",250).attr("fill","blue");
+    var line = canvas.append("line").attr("x1",0).attr("y1",400).attr("x2",400).attr("y2",400).attr("stroke","green").attr("stroke-width",8);
+	</script>
+	</body>
+</html>
