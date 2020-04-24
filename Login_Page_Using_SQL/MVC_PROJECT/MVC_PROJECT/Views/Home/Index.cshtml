@@ -1,0 +1,34 @@
+﻿@model MVC_PROJECT.Models.Ad_login
+@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4"></div>
+        <div class="col-sm-4">
+            <form class="form-horizontal" asp-action="Index">
+                <div class="form-group">
+                    <label class="control-label">Login_ID</label>
+                    <input asp-for="Login_ID" class="form-control" type="text" />
+                </div>
+                <div class="form-group">
+                    <label class="control-label">Password</label>
+                    <input asp-for="Mypassword" class="form-control" type="password" />
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="submit" />
+                </div>
+            </form>
+        </div>
+        <div class="col-sm-4"></div>
+    </div>
+</div>
+@{
+    if (TempData["msg"] != null)
+    {
+        <script>
+            alert('@TempData["msg"]')
+        </script>
+
+    }
+}
