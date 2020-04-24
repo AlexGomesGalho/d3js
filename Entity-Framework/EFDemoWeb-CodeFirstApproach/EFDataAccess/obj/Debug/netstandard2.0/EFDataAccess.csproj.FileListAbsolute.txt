@@ -1,0 +1,16 @@
+C:\Users\Bizruntime-50\source\repos\EFDemoWeb\EFDataAccess\bin\Debug\netstandard2.0\EFDataAccess.deps.json
+C:\Users\Bizruntime-50\source\repos\EFDemoWeb\EFDataAccess\bin\Debug\netstandard2.0\EFDataAccess.dll
+C:\Users\Bizruntime-50\source\repos\EFDemoWeb\EFDataAccess\obj\Debug\netstandard2.0\EFDataAccess.csprojAssemblyReference.cache
+C:\Users\Bizruntime-50\source\repos\EFDemoWeb\EFDataAccess\obj\Debug\netstandard2.0\EFDataAccess.AssemblyInfoInputs.cache
+C:\Users\Bizruntime-50\source\repos\EFDemoWeb\EFDataAccess\obj\Debug\netstandard2.0\EFDataAccess.AssemblyInfo.cs
+C:\Users\Bizruntime-50\source\repos\EFDemoWeb\EFDataAccess\bin\Debug\netstandard2.0\EFDataAccess.pdb
+C:\Users\Bizruntime-50\source\repos\EFDemoWeb\EFDataAccess\obj\Debug\netstandard2.0\EFDataAccess.dll
+C:\Users\Bizruntime-50\source\repos\EFDemoWeb\EFDataAccess\obj\Debug\netstandard2.0\EFDataAccess.pdb
+C:\Users\Bizruntime-50\source\repos\EFDemoWeb-CodeFirstApproach\EFDataAccess\bin\Debug\netstandard2.0\EFDataAccess.deps.json
+C:\Users\Bizruntime-50\source\repos\EFDemoWeb-CodeFirstApproach\EFDataAccess\bin\Debug\netstandard2.0\EFDataAccess.dll
+C:\Users\Bizruntime-50\source\repos\EFDemoWeb-CodeFirstApproach\EFDataAccess\bin\Debug\netstandard2.0\EFDataAccess.pdb
+C:\Users\Bizruntime-50\source\repos\EFDemoWeb-CodeFirstApproach\EFDataAccess\obj\Debug\netstandard2.0\EFDataAccess.csprojAssemblyReference.cache
+C:\Users\Bizruntime-50\source\repos\EFDemoWeb-CodeFirstApproach\EFDataAccess\obj\Debug\netstandard2.0\EFDataAccess.AssemblyInfoInputs.cache
+C:\Users\Bizruntime-50\source\repos\EFDemoWeb-CodeFirstApproach\EFDataAccess\obj\Debug\netstandard2.0\EFDataAccess.AssemblyInfo.cs
+C:\Users\Bizruntime-50\source\repos\EFDemoWeb-CodeFirstApproach\EFDataAccess\obj\Debug\netstandard2.0\EFDataAccess.dll
+C:\Users\Bizruntime-50\source\repos\EFDemoWeb-CodeFirstApproach\EFDataAccess\obj\Debug\netstandard2.0\EFDataAccess.pdb
