@@ -1,0 +1,43 @@
+<html>
+   <head>
+      <title>Creating Object JSON with JavaScript</title>
+      <script language = "javascript" >
+     
+     var students = {
+    "Aditya" : {
+    "nik_name" : "Adi",
+    "age" :  "21",
+    "gender" : "male" 
+},
+
+"Chetan" : {
+  "nik_name" : "patel",
+  "age" : "21",
+  "gender" : "male"
+},
+
+"Raj" : {
+  "nik_name" : "Raj: Name tho suna hi hoga",
+  "age" : "21",
+  "gender" : "male"
+}
+}
+console.log(students.Aditya.nik_name);
+console.log(students.Chetan.nik_name);
+console.log(students.Raj.nik_name);
+
+
+//How to read data from json file and convert it into a JavaScript object?
+
+var myJSobject = JSON.parse(students);
+ 
+ console.log(myJSobject);
+ //How to convert JavaScript object to JSON text?
+ 
+ var jsontxt = JSON.stringify(myJSobject);
+      </script>
+   </head>
+   
+   <body>
+   </body>	
+</html>
