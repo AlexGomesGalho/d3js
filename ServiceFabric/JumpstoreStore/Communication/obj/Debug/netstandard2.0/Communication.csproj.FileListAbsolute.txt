@@ -1,0 +1,8 @@
+C:\Users\Bizruntime-50\source\repos\JumpstoreStore\Communication\bin\Debug\netstandard2.0\Communication.deps.json
+C:\Users\Bizruntime-50\source\repos\JumpstoreStore\Communication\bin\Debug\netstandard2.0\Communication.dll
+C:\Users\Bizruntime-50\source\repos\JumpstoreStore\Communication\obj\Debug\netstandard2.0\Communication.csprojAssemblyReference.cache
+C:\Users\Bizruntime-50\source\repos\JumpstoreStore\Communication\obj\Debug\netstandard2.0\Communication.AssemblyInfoInputs.cache
+C:\Users\Bizruntime-50\source\repos\JumpstoreStore\Communication\obj\Debug\netstandard2.0\Communication.AssemblyInfo.cs
+C:\Users\Bizruntime-50\source\repos\JumpstoreStore\Communication\bin\Debug\netstandard2.0\Communication.pdb
+C:\Users\Bizruntime-50\source\repos\JumpstoreStore\Communication\obj\Debug\netstandard2.0\Communication.dll
+C:\Users\Bizruntime-50\source\repos\JumpstoreStore\Communication\obj\Debug\netstandard2.0\Communication.pdb

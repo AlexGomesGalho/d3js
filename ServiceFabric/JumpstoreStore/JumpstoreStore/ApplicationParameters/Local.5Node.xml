@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="fabric:/JumpstoreStore" xmlns="http://schemas.microsoft.com/2011/01/fabric">
+  <Parameters>
+    <Parameter Name="CommunicationAPI_ASPNETCORE_ENVIRONMENT" Value="Development" />
+    <Parameter Name="CommunicationAPI_InstanceCount" Value="1" />
+    <Parameter Name="CustomerAnalytics_InstanceCount" Value="1" />
+    <Parameter Name="PartitionCount" Value="10" />
+    <Parameter Name="MinReplicaSetSize" Value="3" />
+    <Parameter Name="TargetReplicaSetSize" Value="3" />
+    <Parameter Name="PartitionLowKey" Value="0" />
+    <Parameter Name="PartitionHighKey" Value="9" />
+  </Parameters>
+</Application>
