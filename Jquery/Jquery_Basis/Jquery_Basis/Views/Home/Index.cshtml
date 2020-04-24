@@ -1,0 +1,114 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<html>
+<head>
+    <style>
+        .important {
+            font-weight:bold;
+            font-size: xx-large;
+            color:firebrick;
+        }
+        .blue{
+            color:aqua;
+        }
+    </style>
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script type="text/javascript">
+            $().ready(function () {
+                $('#button1').click(function () {
+                    alert('Jquery Basis');
+                });
+            });
+
+            $(document).ready(function () {
+                $('.small').css('border', '5px Solid Red');  //example for selectors.
+                  $('#div2 span.small').css('border', '5px Solid Red'); //example for selecting a nested class
+                $('div [title]').css('border','5px solid red')   //Selecting a attribute named title
+                 $('[title="div3title"]').css('border','5px solid blue')
+            });
+
+            $(document).ready(function () {
+                $("btnsubmit").click(function () {
+                    var res = $('input[Tyoe="radio"]:checked');
+                    if (res.length > 0) {
+                        $('#divresult').html(result.val() + "is checked")
+                    } else
+                    {
+                    $('#divresult').html("No radio button checked");
+
+                    }
+                })
+            });
+    </script>
+    <script src="~/js/site.js"></script>
+
+
+</head>
+<body>
+
+    <input type="button" id="button1" value="Click me">
+    <br />
+    <div id="div2">
+        <span class="small">
+            Span1
+        </span>
+        <br />
+        <p class="small">
+            Span2
+        </p>
+    </div>
+    <br />
+    <p class="Big"> This is the paragraph</p>
+    <br />
+    <div title="div1Title">
+        Div1
+    </div>
+    <br />
+    <p title="div2Ttitle">
+        Div2
+    </p>
+    <br />
+    <div title="div3title">
+        Div3
+    </div>
+    <br />
+    <div title="div4Title">
+        Div4
+    </div>
+    <input type="radio" name="gender" value="Male"> Male
+    <input type="radio" name="gender" value="FeMale"> FeMale
+    <br />
+    <input type="submit" id="btnsubmit" value="submit" />
+    <div id="divresult"></div>
+
+    <ol>
+        <li>Bangalore1</li>
+        <li>Bangalore2</li>
+        <li>Bangalore3</li>
+        <li>Bangalore4</li>
+        <li>Bangalore5</li>
+    </ol>
+
+    <button id="buttn1">Add to the front</button>
+
+    <p id="id1"> Add the first name here </p>
+
+    <button id="buttn2">Add at top</button>
+
+    <h1>Heading 1</h1>
+    <h2>Heading 1</h2>
+
+    <p>This is a paragraph</p>
+
+    <div id="div9">Sample Div Element</div>
+
+    <button id="btn3">Add class to the elements</button>
+
+    <div id="divvvv"><h2>Change this content with some external file</h2></div>
+    <button id="bttnnnnnnn">Click me to change the content</button>
+</body>
+</html>
