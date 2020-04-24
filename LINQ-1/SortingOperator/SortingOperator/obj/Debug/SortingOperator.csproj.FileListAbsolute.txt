@@ -1,0 +1,6 @@
+C:\Users\Bizruntime-50\source\repos\Aditya-N\LINQ-1\SortingOperator\SortingOperator\bin\Debug\SortingOperator.exe.config
+C:\Users\Bizruntime-50\source\repos\Aditya-N\LINQ-1\SortingOperator\SortingOperator\bin\Debug\SortingOperator.exe
+C:\Users\Bizruntime-50\source\repos\Aditya-N\LINQ-1\SortingOperator\SortingOperator\bin\Debug\SortingOperator.pdb
+C:\Users\Bizruntime-50\source\repos\Aditya-N\LINQ-1\SortingOperator\SortingOperator\obj\Debug\SortingOperator.csprojAssemblyReference.cache
+C:\Users\Bizruntime-50\source\repos\Aditya-N\LINQ-1\SortingOperator\SortingOperator\obj\Debug\SortingOperator.exe
+C:\Users\Bizruntime-50\source\repos\Aditya-N\LINQ-1\SortingOperator\SortingOperator\obj\Debug\SortingOperator.pdb

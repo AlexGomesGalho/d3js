@@ -1,0 +1,9 @@
+C:\Users\asus\source\repos\QuerySyntax and MethodSynatx\QuerySyntax and MethodSynatx\obj\Debug\QuerySyntax and MethodSynatx.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\QuerySyntax and MethodSynatx\QuerySyntax and MethodSynatx\bin\Debug\QuerySyntax and MethodSynatx.exe.config
+C:\Users\asus\source\repos\QuerySyntax and MethodSynatx\QuerySyntax and MethodSynatx\bin\Debug\QuerySyntax and MethodSynatx.exe
+C:\Users\asus\source\repos\QuerySyntax and MethodSynatx\QuerySyntax and MethodSynatx\bin\Debug\QuerySyntax and MethodSynatx.pdb
+C:\Users\asus\source\repos\QuerySyntax and MethodSynatx\QuerySyntax and MethodSynatx\bin\Debug\log4net.dll
+C:\Users\asus\source\repos\QuerySyntax and MethodSynatx\QuerySyntax and MethodSynatx\bin\Debug\log4net.xml
+C:\Users\asus\source\repos\QuerySyntax and MethodSynatx\QuerySyntax and MethodSynatx\obj\Debug\QuerySyntax and MethodSynatx.csproj.CopyComplete
+C:\Users\asus\source\repos\QuerySyntax and MethodSynatx\QuerySyntax and MethodSynatx\obj\Debug\QuerySyntax and MethodSynatx.exe
+C:\Users\asus\source\repos\QuerySyntax and MethodSynatx\QuerySyntax and MethodSynatx\obj\Debug\QuerySyntax and MethodSynatx.pdb
