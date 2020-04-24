@@ -1,0 +1,3 @@
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication11\obj\Debug\netcoreapp2.1\WebApplication11.csprojAssemblyReference.cache
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication11\obj\Debug\netcoreapp2.1\WebApplication11.AssemblyInfoInputs.cache
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication11\obj\Debug\netcoreapp2.1\WebApplication11.AssemblyInfo.cs

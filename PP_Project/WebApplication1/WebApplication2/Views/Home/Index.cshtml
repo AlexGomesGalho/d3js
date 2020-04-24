@@ -1,0 +1,201 @@
+﻿
+@model WebApplication9.Models.StudentDetails
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+</head>
+<body>
+    <h4 class="text-center">Student Form</h4>
+    <form id="test" action="#" method="post" class="container jumbotron">
+        <div class="form-group">
+            <label for="name">Id</label>
+            <input class="form-control" type="text" name="stud_id" id="stud_id" />
+        </div>
+        <div class="form-group">
+            <label for="name">Name</label>
+            <input class="form-control" type="text" name="name" id="name" />
+        </div>
+        <div class="form-group">
+            <label for="email">Email</label>
+            <input class="form-control" type="text" name="email" id="email" />
+        </div>
+        <div class="form-group">
+            <label for="password">MobileNumber</label>
+            <input class="form-control" type="text" name="mobile" id="mobile" />
+        </div>
+        <div class="form-group">
+            <label for="name">CollegeName</label>
+            <input class="form-control" type="text" name="college" id="college" />
+        </div>
+        <div class="form-group">
+            <label for="select">Select Stream</label>
+            <select name="Stream" class="dropdown" id="stream">
+                <option value="none" selected="selected">None</option>
+                <option value="CSE">Computer Science And Engineering</option>
+                <option value="ME">Mechanical Engineering</option>
+                <option value="CE">Civil Engineering</option>
+                <option value="EEE">Electrical And Electronics Engineering</option>
+                <option value="ECE">Electronics And Communication Engineering</option>
+            </select>
+        </div>
+        <button type="submit" value="Send" id="submit" class="btn btn-primary">Submit</button>
+        <button type="submit" value="Send" id="save" class="btn btn-primary">Save Changes</button>
+    </form>
+    <hr />
+        <pre id="output"></pre>
+    <hr />
+
+    <div class="container ">
+        <table id="tblData" class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>MobileNumber</th>
+                    <th>CollegeName</th>
+                    <th>Stream</th>
+                    <th>Edit</th>
+                    <th>Delete</th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+    <script>
+        //Converting To Json
+        (function () {
+            function toJSONString(form) {
+                var obj = {};
+                var elements = form.querySelectorAll("input");
+                for (var i = 0; i < elements.length; ++i) {
+                    var element = elements[i];
+                    var name = element.name;
+                    var value = element.value;
+
+                    if (name) {
+                        obj[name] = value;
+                    }
+                }
+                return JSON.stringify(obj);
+            }
+            document.addEventListener("DOMContentLoaded", function () {
+                var form = document.getElementById("test");
+                var output = document.getElementById("output");
+
+                form.addEventListener("submit", function (e) {
+                    e.preventDefault();
+                    var json = toJSONString(this);
+                    output.innerHTML = json;
+                }, false);
+
+            });
+
+        })();
+        //POST Method
+        $(function () {
+            $('#submit').click(function () {
+                var studentDetails = new Object();
+                studentDetails.Id = $("#stud_id").val();
+                studentDetails.Name = $("#name").val();
+                studentDetails.Email = $("#email").val();
+                studentDetails.MobileNumber = $("#mobile").val();
+                studentDetails.CollegeName = $("#college").val();
+                studentDetails.Stream = $("#stream").val();
+                if (studentDetails != null) {
+                    $.ajax({
+                        url: "@Url.Action("StoreData", "Home")",
+                        type: "POST",
+                        data: JSON.stringify(studentDetails),
+                        contentType: "application/json; charset=utf-8",
+                        dataType: "json",
+                    });
+                }
+            });
+        });
+        //Get method
+        $(document).ready(function () {
+            $.ajax({
+                type: "GET",
+                url: "@Url.Action("GetData", "Home")",
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: function (data) {
+                    var row;
+                    $.each(data, function (index, studentDetails) {
+                       row += "<tr><td>" + studentDetails.id + "</td><td>" + studentDetails.name + "</td><td>" + studentDetails.email + "</td><td>" + studentDetails.mobileNumber +
+                                "</td><td>" + studentDetails.collegeName + "</td><td>" + studentDetails.stream + "</td><td>"
+                                + "<a href='#'" + "onclick='editForm(" + studentDetails.id + ")'> " + "Edit" + "</a>" + "</td><td>" +
+                                "<button type='button' " + "id='delete' " + "onclick='DeleteFunction(" + studentDetails.id + ")'" + "class='btn btn-primary'>" + "Delete" +"</button>" + "</td>"
+                    });
+                    $("#tblData").append(row);
+                }
+            });
+        });
+        //Delete method
+        function DeleteFunction(StudentId) {
+            $.ajax({
+                type: "DELETE",
+                url: "@Url.Action("DeleteData", "Home")",
+                dataType: 'json',
+                data: {studentid:StudentId},
+                success: function (response) {
+                    if (response != null) {
+                         alert("Record Deleted successfully");
+                    }
+                    else {
+                         alert("Something went wrong");
+                    }
+                }
+            });
+        }
+        //Edit Method
+        function editForm(StudentId) {
+            $.ajax({
+                type: "GET",
+                url: "@Url.Action("GetDataByStudentId", "Home")",
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                data: {studentid: StudentId},
+                success: function (data) {
+                    $.each(data, function (index, studentDetails) {
+                        $('#stud_id').val(studentDetails.id);
+                        $("#name").val(studentDetails.name);
+                        $("#email").val(studentDetails.email);
+                        $("#mobile").val(studentDetails.mobileNumber);
+                        $("#college").val(studentDetails.collegeName);
+                        $("#stream").val(studentDetails.stream);
+                    });
+                }
+            });
+        }
+        //Update Method
+        $("document").ready(function () {
+            $("#save").click(function () {
+
+                var Id = $("#stud_id").val();
+                var Name = $("#name").val();
+                var Email = $("#email").val();
+                var MobileNumber = $("#mobile").val();
+                var CollegeName = $("#college").val();
+                var Stream = $("#stream").val();
+                var data = { Id: Id, Name: Name, Email: Email, MobileNumber: MobileNumber, CollegeName: CollegeName, Stream: Stream };
+                var Data = JSON.stringify(data);
+
+                $.ajax({
+                    type: "PATCH",
+                    url: "@Url.Action("UpdateStudentRecords", "Home")",
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "json",
+                    data: Data
+                });
+            });
+        });
+    </script>
+    <hr />
+</body>
+</html>
+
+
