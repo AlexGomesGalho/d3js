@@ -1,0 +1,9 @@
+C:\Users\Bizruntime-50\source\repos\ASPDOTNETExample\ASPDOTNETExample\bin\Debug\ASPDOTNETExample.exe.config
+C:\Users\Bizruntime-50\source\repos\ASPDOTNETExample\ASPDOTNETExample\bin\Debug\ASPDOTNETExample.exe
+C:\Users\Bizruntime-50\source\repos\ASPDOTNETExample\ASPDOTNETExample\bin\Debug\ASPDOTNETExample.pdb
+C:\Users\Bizruntime-50\source\repos\ASPDOTNETExample\ASPDOTNETExample\obj\Debug\ASPDOTNETExample.csprojAssemblyReference.cache
+C:\Users\Bizruntime-50\source\repos\ASPDOTNETExample\ASPDOTNETExample\obj\Debug\ASPDOTNETExample.exe
+C:\Users\Bizruntime-50\source\repos\ASPDOTNETExample\ASPDOTNETExample\obj\Debug\ASPDOTNETExample.pdb
+C:\Users\Bizruntime-50\source\repos\ASPDOTNETExample\ASPDOTNETExample\bin\Debug\log4net.dll
+C:\Users\Bizruntime-50\source\repos\ASPDOTNETExample\ASPDOTNETExample\bin\Debug\log4net.xml
+C:\Users\Bizruntime-50\source\repos\ASPDOTNETExample\ASPDOTNETExample\obj\Debug\ASPDOTNETExample.csproj.CopyComplete
