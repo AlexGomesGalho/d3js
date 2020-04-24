@@ -1,0 +1,11 @@
+C:\Users\Bizruntime-50\source\repos\ReadingXML\ReadingXML\bin\Debug\netcoreapp3.1\ReadingXML.exe
+C:\Users\Bizruntime-50\source\repos\ReadingXML\ReadingXML\bin\Debug\netcoreapp3.1\ReadingXML.deps.json
+C:\Users\Bizruntime-50\source\repos\ReadingXML\ReadingXML\bin\Debug\netcoreapp3.1\ReadingXML.runtimeconfig.json
+C:\Users\Bizruntime-50\source\repos\ReadingXML\ReadingXML\bin\Debug\netcoreapp3.1\ReadingXML.runtimeconfig.dev.json
+C:\Users\Bizruntime-50\source\repos\ReadingXML\ReadingXML\bin\Debug\netcoreapp3.1\ReadingXML.dll
+C:\Users\Bizruntime-50\source\repos\ReadingXML\ReadingXML\bin\Debug\netcoreapp3.1\ReadingXML.pdb
+C:\Users\Bizruntime-50\source\repos\ReadingXML\ReadingXML\obj\Debug\netcoreapp3.1\ReadingXML.csprojAssemblyReference.cache
+C:\Users\Bizruntime-50\source\repos\ReadingXML\ReadingXML\obj\Debug\netcoreapp3.1\ReadingXML.AssemblyInfoInputs.cache
+C:\Users\Bizruntime-50\source\repos\ReadingXML\ReadingXML\obj\Debug\netcoreapp3.1\ReadingXML.AssemblyInfo.cs
+C:\Users\Bizruntime-50\source\repos\ReadingXML\ReadingXML\obj\Debug\netcoreapp3.1\ReadingXML.dll
+C:\Users\Bizruntime-50\source\repos\ReadingXML\ReadingXML\obj\Debug\netcoreapp3.1\ReadingXML.pdb
