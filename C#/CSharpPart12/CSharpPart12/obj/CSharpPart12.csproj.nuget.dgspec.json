@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bizruntime-50\\source\\repos\\Aditya-N\\CSharpPart12\\CSharpPart12\\CSharpPart12.csproj": {}
+    "C:\\Users\\Bizruntime-50\\source\\repos\\Aditya\\C#\\CSharpPart12\\CSharpPart12\\CSharpPart12.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bizruntime-50\\source\\repos\\Aditya-N\\CSharpPart12\\CSharpPart12\\CSharpPart12.csproj": {
+    "C:\\Users\\Bizruntime-50\\source\\repos\\Aditya\\C#\\CSharpPart12\\CSharpPart12\\CSharpPart12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bizruntime-50\\source\\repos\\Aditya-N\\CSharpPart12\\CSharpPart12\\CSharpPart12.csproj",
+        "projectUniqueName": "C:\\Users\\Bizruntime-50\\source\\repos\\Aditya\\C#\\CSharpPart12\\CSharpPart12\\CSharpPart12.csproj",
         "projectName": "CSharpPart12",
-        "projectPath": "C:\\Users\\Bizruntime-50\\source\\repos\\Aditya-N\\CSharpPart12\\CSharpPart12\\CSharpPart12.csproj",
+        "projectPath": "C:\\Users\\Bizruntime-50\\source\\repos\\Aditya\\C#\\CSharpPart12\\CSharpPart12\\CSharpPart12.csproj",
         "packagesPath": "C:\\Users\\Bizruntime-50\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bizruntime-50\\source\\repos\\Aditya-N\\CSharpPart12\\CSharpPart12\\obj\\",
+        "outputPath": "C:\\Users\\Bizruntime-50\\source\\repos\\Aditya\\C#\\CSharpPart12\\CSharpPart12\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -58,7 +58,7 @@
             },
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.0.2, 3.0.2]"
+              "version": "[3.0.3, 3.0.3]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

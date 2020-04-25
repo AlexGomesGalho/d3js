@@ -34,6 +34,7 @@ namespace DelegateExample2
             traiDelegate obj1 = new traiDelegate(trai.TraiArea);
             obj1.Invoke(56.36, 58.56);
             Console.WriteLine("\n");
+            Console.WriteLine("Good Morning");
             
           
             TestdelegateMethod p = new TestdelegateMethod();
