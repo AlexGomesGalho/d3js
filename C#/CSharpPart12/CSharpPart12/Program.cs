@@ -28,6 +28,7 @@ namespace DelegateExample2
             obj.Invoke(56.23, 23.45);
             Console.WriteLine("\n");
             //Break line 
+			Console.WriteLine("Good Morning");
            
             Traingle trai = new Traingle();
             traiDelegate obj1 = new traiDelegate(trai.TraiArea);
