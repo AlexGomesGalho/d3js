@@ -1,0 +1,9 @@
+C:\Users\Bizruntime-50\source\repos\PING-PONG\PING-PONG\bin\Debug\PING-PONG.exe.config
+C:\Users\Bizruntime-50\source\repos\PING-PONG\PING-PONG\bin\Debug\PING-PONG.exe
+C:\Users\Bizruntime-50\source\repos\PING-PONG\PING-PONG\bin\Debug\PING-PONG.pdb
+C:\Users\Bizruntime-50\source\repos\PING-PONG\PING-PONG\obj\Debug\PING-PONG.csprojAssemblyReference.cache
+C:\Users\Bizruntime-50\source\repos\PING-PONG\PING-PONG\obj\Debug\PING_PONG.Form1.resources
+C:\Users\Bizruntime-50\source\repos\PING-PONG\PING-PONG\obj\Debug\PING_PONG.Properties.Resources.resources
+C:\Users\Bizruntime-50\source\repos\PING-PONG\PING-PONG\obj\Debug\PING-PONG.csproj.GenerateResource.cache
+C:\Users\Bizruntime-50\source\repos\PING-PONG\PING-PONG\obj\Debug\PING-PONG.exe
+C:\Users\Bizruntime-50\source\repos\PING-PONG\PING-PONG\obj\Debug\PING-PONG.pdb
